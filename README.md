@@ -16,5 +16,5 @@ ofideoPlayerのtest.
 	動画サイズは、640 x 360。
 
 
-##注記
+##note
 
